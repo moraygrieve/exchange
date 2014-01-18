@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.almworks.sqlite4java:sqlite4java:0.213">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/almworks/sqlite4java/sqlite4java/0.213/sqlite4java-0.213.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/almworks/sqlite4java/sqlite4java/0.213/sqlite4java-0.213-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/almworks/sqlite4java/sqlite4java/0.213/sqlite4java-0.213-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
