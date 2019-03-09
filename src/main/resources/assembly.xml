@@ -12,11 +12,11 @@
 
     <files>
         <file>
-            <source>/src/main/resources/server.cfg</source>
+            <source>src/main/resources/server.cfg</source>
             <outputDirectory>etc</outputDirectory>
         </file>
         <file>
-            <source>/src/main/resources/server-log4j.properties</source>
+            <source>src/main/resources/server-log4j.properties</source>
             <outputDirectory>etc</outputDirectory>
         </file>
     </files>
