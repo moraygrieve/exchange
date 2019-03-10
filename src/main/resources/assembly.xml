@@ -40,8 +40,6 @@
         <dependencySet>
             <includes>
                 <include>*:jar</include>
-                <include>*:dll</include>
-                <include>*:so</include>
             </includes>
             <outputDirectory>lib</outputDirectory>
             <fileMode>644</fileMode>
