@@ -1,5 +1,5 @@
 #!/bin/bash
-#  Script to start the exchange
+#  Script to start quantos
 #
 makeDir() { if [ ! -d $1 ]; then mkdir -pm 755 $1; fi }
 
@@ -16,7 +16,7 @@ then
 else
     if [ -f $VAR_DIR/ecn.pid ] && kill -0 `cat $VAR_DIR/ecn.pid` 2>/dev/null
     then
-        echo Exchange is running, please shut it down before attempting to start ...
+        echo Quantos is running, please shut it down before attempting to start ...
     else
         CWD=`pwd`
         java -Dlog4j.configuration=file:///$CWD/etc/server-log4j.properties

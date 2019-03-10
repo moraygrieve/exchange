@@ -1,5 +1,5 @@
 #!/bin/bash
-#  Script to stop the exchange
+#  Script to stop the quantos
 #
 VAR_DIR=var
 

@@ -2,12 +2,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.kaia.exchange</groupId>
-    <artifactId>exchange</artifactId>
+    <groupId>com.kaia.quantos</groupId>
+    <artifactId>quantos</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>exchange</name>
+    <name>quantos</name>
     <url>http://maven.apache.org</url>
 
     <repositories>
@@ -40,7 +40,7 @@
                     <outputDirectory>${project.build.directory}/lib</outputDirectory>
                     <archive>
                         <manifest>
-                            <mainClass>com.kaia.exchange.fix.Application</mainClass>
+                            <mainClass>com.kaia.quantos.fix.Application</mainClass>
                             <addClasspath>true</addClasspath>
                         </manifest>
                     </archive>
